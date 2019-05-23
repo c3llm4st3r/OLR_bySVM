@@ -2,6 +2,11 @@
 """
 Created on Thu May 23 16:12:17 2019
 
+Resizes and normalizes the (test) images. 
+Input: PIL image object
+Output: float32 numPy array
+
+
 @author: Artun
 """
 
